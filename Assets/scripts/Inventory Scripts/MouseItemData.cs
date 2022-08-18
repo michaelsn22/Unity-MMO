@@ -11,7 +11,7 @@ public class MouseItemData : MonoBehaviour
     public Image ItemSprite;
     public TextMeshProUGUI ItemCount;
     //item slot
-    public InventorySlot AssignedInventorySlot; //name change around 16;30 part 4
+    public InventorySlot AssignedInventorySlot; 
 
     private void Awake()
     {
